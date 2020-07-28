@@ -1,21 +1,28 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="surenalatinoamerica.com" resolutions="1x" timestamp="1595899688577">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="surenalatinoamerica.com" resolutions="1x" timestamp="1595903835520">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="350936391" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3862308601" seo="true" mt="1595903691689" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="172966599" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4153641093" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="3803043152" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:phone>index"/>
+    <file name="require.js" crc="4157109226" ref="index:phone>index"/>
   </folder>
   <folder name="images">
-    <file name="sureña.png" crc="412930505" seo="true" ref="index">
+    <file name="text.jpg" crc="349092397" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="text.jpg" crc="349092397" seo="true" ref="index">
+    <file name="sureña.png" crc="412930505" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="sureñarev.png" crc="153976064" seo="true" ref="index">
@@ -24,18 +31,31 @@
     <file name="mega.png" crc="109906637" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="face.png" crc="3803628647" seo="true" ref="index">
+    <file name="face.png" crc="3803628647" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="inst.png" crc="531993802" seo="true" ref="index">
+    <file name="inst.png" crc="531993802" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="twit.png" crc="3987165492" seo="true" ref="index">
+    <file name="twit.png" crc="3987165492" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="you.png" crc="37065438" seo="true" ref="index">
+    <file name="you.png" crc="37065438" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="text-crop-u2481.jpg" crc="56711538" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sureñarev271x241.png" crc="23822569" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mega173x135.png" crc="389153075" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3994970459" seo="true" mt="1595899635292" redirect="true"/>
+  <file name="index.html" crc="4137870178" seo="true" mt="1595903527132" redirect="true"/>
 </manifest>
