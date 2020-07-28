@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://surenalatinoamerica.com/index.html</loc>
+    <lastmod>2020-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://surenalatinoamerica.com/images/sure%C3%B1a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://surenalatinoamerica.com/images/text.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://surenalatinoamerica.com/images/sure%C3%B1arev.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://surenalatinoamerica.com/images/mega.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://surenalatinoamerica.com/images/face.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://surenalatinoamerica.com/images/inst.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://surenalatinoamerica.com/images/twit.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://surenalatinoamerica.com/images/you.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
