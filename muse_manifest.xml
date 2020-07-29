@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="surenalatinoamerica.com" resolutions="1x" timestamp="1595906309576">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="surenalatinoamerica.com" resolutions="1x" timestamp="1596041789855">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="335523821" ref="phone>index"/>
+      <file name="index.css" crc="3769956006" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="132617315" seo="true" mt="1595905793913" redirect="true"/>
+    <file name="index.html" crc="358643998" seo="true" mt="1596041674024" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4269241877" ref="index"/>
+    <file name="index.css" crc="283948964" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
@@ -56,6 +56,9 @@
     <file name="mega173x135.png" crc="389153075" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="text-crop-u2628.jpg" crc="4224832327" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="359691950" seo="true" mt="1595905728985" redirect="true"/>
+  <file name="index.html" crc="518983414" seo="true" mt="1596041183677" redirect="true"/>
 </manifest>
