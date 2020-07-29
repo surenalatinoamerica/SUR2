@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="surenalatinoamerica.com" resolutions="1x" timestamp="1596042809142">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="surenalatinoamerica.com" resolutions="1x" timestamp="1596053048733">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3769956006" ref="phone>index"/>
+      <file name="index.css" crc="4130524855" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="513489540" seo="true" mt="1596042779634" redirect="true"/>
+    <file name="index.html" crc="3971974030" seo="true" mt="1596053035205" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -23,7 +23,6 @@
     </file>
     <file name="sureña.png" crc="412930505" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="sureñarev.png" crc="153976064" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -33,18 +32,14 @@
     </file>
     <file name="face.png" crc="3803628647" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="inst.png" crc="531993802" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="twit.png" crc="3987165492" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="you.png" crc="37065438" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="text-crop-u2481.jpg" crc="3922903453" seo="true" ref="phone>index">
